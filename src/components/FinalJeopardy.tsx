@@ -35,7 +35,7 @@ function FinalJeopardy(props: FinalJeopardyProps) {
       } else {
         toggleSolution();
       }
-    } else if (event.key === "Escape" && !category && solution) {
+    } else if (event.key === "Backspace" && !category && solution) {
       onFinishGame();
     }
   }

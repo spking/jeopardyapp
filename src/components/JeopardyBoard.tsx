@@ -111,7 +111,7 @@ function JeopardyBoard(props: JeopardyBoardProps) {
       } else {
         toggleSolution();
       }
-    } else if (event.key === "Escape") {
+    } else if (event.key === "Backspace") {
       returnToBoard();
     }
   }
