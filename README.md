@@ -25,3 +25,5 @@
   - A `correct` key with the player's number of correct responses so far (should initially be 0)
   - An `incorrect` key with the player's number of incorrect responses so far (should initially be 0)
 - An optional `round` key indicating which round to begin with (should initially be "single")
+
+Fixed compatability for Safari immersion
