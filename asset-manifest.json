@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.89153300.css",
-    "main.js": "/static/js/main.95236bc4.js",
-    "static/media/Swiss921-BT_43276.ttf": "/static/media/Swiss921-BT_43276.10ddcaee075a6fe89dbb.ttf",
-    "static/media/korinna.ttf": "/static/media/korinna.035454f8ecc15f8cb240.ttf",
-    "index.html": "/index.html",
-    "main.89153300.css.map": "/static/css/main.89153300.css.map",
-    "main.95236bc4.js.map": "/static/js/main.95236bc4.js.map"
+    "main.css": "/jeopardyapp/static/css/main.cad6125b.css",
+    "main.js": "/jeopardyapp/static/js/main.9fc5eea7.js",
+    "static/media/Swiss921-BT_43276.ttf": "/jeopardyapp/static/media/Swiss921-BT_43276.10ddcaee075a6fe89dbb.ttf",
+    "static/media/korinna.ttf": "/jeopardyapp/static/media/korinna.035454f8ecc15f8cb240.ttf",
+    "index.html": "/jeopardyapp/index.html",
+    "main.cad6125b.css.map": "/jeopardyapp/static/css/main.cad6125b.css.map",
+    "main.9fc5eea7.js.map": "/jeopardyapp/static/js/main.9fc5eea7.js.map"
   },
   "entrypoints": [
-    "static/css/main.89153300.css",
-    "static/js/main.95236bc4.js"
+    "static/css/main.cad6125b.css",
+    "static/js/main.9fc5eea7.js"
   ]
 }
